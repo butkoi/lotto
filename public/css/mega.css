@@ -1,0 +1,14 @@
+.jackpot-number{
+  display: flex;
+  border-radius: 50%;
+  border: red solid 2px;
+  padding: 7px;
+  font-size: 22px;
+  font-family: consolas;
+  margin-right: 5px;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+}
